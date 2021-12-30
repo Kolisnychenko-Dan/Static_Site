@@ -1,0 +1,20 @@
+Server strarted with PID 146602
+Socket created
+Bind at port: 8080
+Listening for requests...
+Connected client
+Connected client
+Get request
+Send response
+Connected client
+Get request
+Send response
+Connected client
+Get request
+Send response
+Connected client
+Get request
+Send response
+Connected client
+Get request
+Send response
